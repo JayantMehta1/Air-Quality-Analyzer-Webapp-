@@ -1,21 +1,7 @@
-# local
+# Air Quality Analyzer Webapp | JavaScript, Vue.js, HTML, CSS
+Developed a Vue.js analyzer that manipulates API data to compare and compute air qualities. Optimized performance by implementing Vue router, Node.js, third party libraries, and components 
 
-> A Vue.js project
 
-## Build Setup
+https://jayantmehta1.github.io/Air-Quality-Analyzer-Webapp-/
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
